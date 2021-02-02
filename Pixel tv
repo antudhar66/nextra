@@ -1,3 +1,5 @@
 EXTM3U
 #EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/btv-world.jpg" group-title="BANGLADESH",HUNGAMA
-http://128.199.114.52:80/stm-v3/api/def39.php?id=492&quality=0&type=0|User-Agent:stagefright/1.2 (Linux;Android 5.1)|tokenUrl:/4
+
+http://128.199.114.52:80/stm-v3/api/def39.php?id=492&quality=0&type=0|User-Agent:Dalvik/2.1.0 (Linux; U; Android 8.1.0; CPH1803 Build/OPM1.171019.026|tokenUrl:/4
+
