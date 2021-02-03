@@ -1,3 +1,29 @@
-EXTM3U
-#EXTINF:-1 tvg-logo="http://likeetv.com/uploads/tv_image/btv-world.jpg" group-title="BANGLADESH",HUNGAMA
-http://128.199.114.52:80/stm-v3/api/def39.php?id=492&quality=0&type=0|User-Agent:B Player|tokenUrl:/4
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="HINDI", COLORS HD
+
+http://208.115.215.42/Colors_TV_HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HINDI",&TV  HD (USA)
+
+http://128.199.114.52:80/stm-v3/api/def39.php?id=605&quality=1&type=0|User-Agent:B Player|tokenUrl:/4
+#EXTINF:-1 tvg-logo="" group-title="HINDI",&TV (SD)
+
+http://128.199.114.52:80/stm-v3/api/def39.php?id=605&quality=2&type=0|User-Agent:B Player|tokenUrl:/4
+#EXTINF:-1 tvg-logo="" group-title="HINDI",BIG GANGA 
+
+http://128.199.114.52:80/stm-v3/api/def39.php?id=310&quality=0&type=0|User-Agent:B Player|tokenUrl:/4
+#EXTINF:-1 tvg-logo="" group-title="HINDI",ZEE  ANMOL
+
+http://128.199.114.52:80/stm-v3/api/def39.php?id=981&quality=0&type=0|User-Agent:B Player|tokenUrl:/4
+#EXTINF:-1 tvg-logo="" group-title="HINDI",ZEE  TV(HD)
+
+http://128.199.114.52:80/stm-v3/api/def39.php?id=998&quality=0&type=0|User-Agent:B Player|tokenUrl:/4
+#EXTINF:-1 tvg-logo="" group-title="HINDI",ZEE TV(SD)
+
+http://128.199.114.52:80/stm-v3/api/def39.php?id=998&quality=1&type=0|User-Agent:B Player|tokenUrl:/4
+#EXTINF:-1 tvg-logo="" group-title="HINDI",ZEE TV (USA)
+
+http://128.199.114.52:80/stm-v3/api/def39.php?id=998&quality=2&type=0|User-Agent:B Player|tokenUrl:/4
+#EXTINF:-1 tvg-logo="" group-title="HINDI",ZEE TV(CANADA)
+
+http://128.199.114.52:80/stm-v3/api/def39.php?id=998&quality=4&type=0|User-Agent:B Player|tokenUrl:/4
+#EXTINF:-1 tvg-logo="" group-title="HINDI",
