@@ -1,29 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="HINDI", COLORS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="HINDI", COLORS HD
 
 http://208.115.215.42/Colors_TV_HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HINDI",&TV  HD (USA)
+
+#EXTINF:-1 tvg-logo="https://www.dishtv.in/bn-in/App_Documents/Channel/andtv-hd.png" group-title="HINDI",&TV  HD (USA)
 
 http://128.199.114.52:80/stm-v3/api/def39.php?id=605&quality=1&type=0|User-Agent:B Player|tokenUrl:/4
-#EXTINF:-1 tvg-logo="" group-title="HINDI",&TV (SD)
+
+#EXTINF:-1 tvg-logo="https://akashdth.com/assets/uploads/channels_images/1582798479-84334691.png" group-title="HINDI",&TV (SD)
 
 http://128.199.114.52:80/stm-v3/api/def39.php?id=605&quality=2&type=0|User-Agent:B Player|tokenUrl:/4
-#EXTINF:-1 tvg-logo="" group-title="HINDI",BIG GANGA 
+
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201902/big-ganga-logo-1_2.jpg" group-title="HINDI",BIG GANGA 
 
 http://128.199.114.52:80/stm-v3/api/def39.php?id=310&quality=0&type=0|User-Agent:B Player|tokenUrl:/4
-#EXTINF:-1 tvg-logo="" group-title="HINDI",ZEE  ANMOL
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Zee_Anmol_logo.jpg" group-title="HINDI",ZEE  ANMOL
 
 http://128.199.114.52:80/stm-v3/api/def39.php?id=981&quality=0&type=0|User-Agent:B Player|tokenUrl:/4
-#EXTINF:-1 tvg-logo="" group-title="HINDI",ZEE  TV(HD)
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-zeetvhd/list/09zeetvhdzeetvhd.jpg" group-title="HINDI",ZEE  TV(HD)
 
 http://128.199.114.52:80/stm-v3/api/def39.php?id=998&quality=0&type=0|User-Agent:B Player|tokenUrl:/4
-#EXTINF:-1 tvg-logo="" group-title="HINDI",ZEE TV(SD)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI",ZEE TV(SD)
 
 http://128.199.114.52:80/stm-v3/api/def39.php?id=998&quality=1&type=0|User-Agent:B Player|tokenUrl:/4
-#EXTINF:-1 tvg-logo="" group-title="HINDI",ZEE TV (USA)
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngeFDS1A8qxvkMazIktq2dNs7Q6PKynzY-_x6P-kg%3Ds900-c-k-c0x00ffffff-no-rj" group-title="HINDI",ZEE TV (USA)
 
 http://128.199.114.52:80/stm-v3/api/def39.php?id=998&quality=2&type=0|User-Agent:B Player|tokenUrl:/4
-#EXTINF:-1 tvg-logo="" group-title="HINDI",ZEE TV(CANADA)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/ZeeTVCanadaLogo.png" group-title="HINDI",ZEE TV(CANADA)
 
 http://128.199.114.52:80/stm-v3/api/def39.php?id=998&quality=4&type=0|User-Agent:B Player|tokenUrl:/4
-#EXTINF:-1 tvg-logo="" group-title="HINDI",
